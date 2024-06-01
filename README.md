@@ -1,45 +1,29 @@
 # [Database] CTRPF AR CHEAT CODES
 
-# Notice
-
-So I'm semi-officially assuming command of this repo. I dont plan to do much different than JO did previously, but I am versed a bit more in how codes work when it comes to reported codes - though I'll likely still be just shy of useless on games I don't have. JO still be helping/working on Sharkive. I'm expecting that the two repos might drift a part more, especially considering CTRPF has additional codetypes that Sharkive doesnt support, but feel free to submit any of your more 'generic' codes to Sharkive as well (link below).
-
-~ iShar
-
-<b>[Here's the Sharkive for those wanting to contribute there, too](https://github.com/FlagBrew/Sharkive)</b>
-
-# Notice 2 - IMPORTANT!
-
-Due to Github's braindead requirement change FORCING 2FA (which actually introduces new vulnerabilities in many cases - contrary to their claims of increased code security) this repo may become effectively dead when they lock me out of my account over to my refusal to comply with their insanity. Compounded with their policy of deleting accounts with 2 years of inactivity, I strongly recommend those interested either fork the repo or download a copy before that time. For those willing, I urge you to also contact Github any way you can and speak up against this insanity. I have nothing against 2FA itself, but forcing it on everyone is not the way to do things. Personal security decisions should remain just that: PERSONAL decisions regarding OUR OWN account security.
-
-~ iShar
-
 ## How to use
 
 ### Using Luma3DS with Plugin Loader
 
-1. Download `Luma3DS 9.1 - Plugin loader.zip` & `ActionReplay.zip`
+1. Download and install [Luma](https://github.com/LumaTeam/Luma3DS/releases) > 13 and download CTR Plugin Framework from [here](https://github.com/PabloMK7/CTRPluginFramework-BlankTemplate/releases)
 
-- Included in this repository or you can download from [here](http://gbatemp.net/threads/ctrpluginframework-blank-plugin.487729/)
+- You may use Universal Updater to update your Luma to the most current version and reboot your 3DS for changes to take effect.
 
-2. Make sure you already installed the latest `Boot9strap` and `Luma CFW` and have a firmware of 11.4 or higher.
-3. Rename any existing `boot.firm` in the root of your SD card to `boot.firm.bak` in case you want to go back, then drag the `boot.firm` from `Luma3DS 9.1 - Plugin loader.zip` into the root of your SD card
-4. Place the contents from `ActionReplay.zip` into either
+2. Copy the downloaded CTRPluginFramework-BlankTemplate.3gx
 
 - `sd:/luma/plugins/<Title ID of the game folder>/`
-  - Name of the plugin must be `plugin.plg` if placed here.
-- or `sd:/luma/plugins/ActionReplay/`
-  - Name of plugin must be `ActionReplay.plg` if placed here.
+  - Name of the plugin must be `default.3gx` if placed here.
+- or `sd:/luma/plugins/`
+  - Name of plugin must be `default.3gx` if placed here.
   - if placed here allows loading the `plugin` for all games if no specific plugin is found.
 
-5. Either download or clone this repository or search in the cheats folder for the game you want to cheat on and download the `.txt` file in the folder
-6. Move the `.txt` file to either
+3. Either download or clone this repository or search in the cheats folder for the game you want to cheat on and download the `.txt` file in the folder
+4. Move the `.txt` file to either
 
 - `sd:/cheats/`
   - txt files are conveniently already named correctly if placing here
-- or place along side `plugin.plg` from #4 and rename the `.txt` to `cheats.txt`
+- or place along side `default.3gx` from #2 and rename the `.txt` to `cheats.txt`
 
-7. Use your button combo to load up `rosalina menu` (default is usually `L+Down+select`) and enable `plugin loader` if it isn't already and then load up your game
+5. Use your button combo to load up `rosalina menu` (default is usually `L+Down+select`) and enable `plugin loader` if it isn't already and then load up your game
 
 - If you get a green screen during load then it worked
 - To open CTRPluginFramework menu press `select` once in-game and click on `Action Replay` button to see the cheats.
