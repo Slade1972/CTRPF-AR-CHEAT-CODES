@@ -1,0 +1,16 @@
+[65,535 Bonus Energy]
+D3000000 08000000
+1065C361 0000FFFF
+D2000000 00000000
+{Not needed if using Infinite Energy.}
+
+[Infinite Energy]
+D3000000 08000000
+1065C353 00001388
+D2000000 00000000
+{Disable at the end of stage 6 to complete the game.}
+
+[Infinite Shield]
+D3000000 08000000
+2065C358 00000078
+D2000000 00000000
