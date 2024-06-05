@@ -1,0 +1,129 @@
+## Cheats are incomplete in this game, however I have crashed the game multiple times
+## so this can wait to be completed.
+## Memory locations move around, so some names may not relate to the actual item.
+
+[$999,000]
+D3000000 08000000
+00225620 000F3E58
+D2000000 00000000
+
+[Infinite Health]
+D3000000 08000000
+002256F8 00000009
+D2000000 00000000
+
+[Max Health]
+D3000000 08000000
+002256FC 00000009
+D2000000 00000000
+
+[++Others / Rocks++]
+
+[Infinite Roasted Rock]
+D3000000 08000000
+00265424 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Heart Core]
+D3000000 08000000
+00265410 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Rock Cutlet]
+D3000000 08000000
+00265410 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Shabby Rock]
+D3000000 08000000
+002653C0 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Foot Rock]
+D3000000 08000000
+00265334 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Rock Pick]
+D3000000 08000000
+00265348 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Weak Crystal]
+D3000000 08000000
+002653AC 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Eyeball Rocks]
+D3000000 08000000
+00265370 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Sizzling Quartz]
+D3000000 08000000
+0026535C 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Burning Stone]
+D3000000 08000000
+002652F8 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Clay Leaf]
+D3000000 08000000
+002653D4 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Clay Flower]
+D3000000 08000000
+002653E8 00000063
+D2000000 00000000
+{At least one required.}
+[--]
+
+[++Items++]
+
+[Infinite Hardium]
+D3000000 08000000
+0026530C 00000063
+D2000000 00000000
+{At least one required.}
+
+[Infinite Harderite]
+D3000000 08000000
+00265320 00000063
+D2000000 00000000
+{At least one required.}
+[--]
+
+[++Tools++]
+
+[Infinite Medkits]
+D3000000 08000000
+002652E4 00000003
+D2000000 00000000
+{Buy one before enabling.}
+
+[Infinite Glass Beads]
+D3000000 08000000
+00265398 00000064
+D2000000 00000000
+{At least one required.}
+
+[Infinite Dumplings]
+D3000000 08000000
+00265384 00000063
+D2000000 00000000
+{At least one required.}
+[--]
