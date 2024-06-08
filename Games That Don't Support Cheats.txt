@@ -1,0 +1,50 @@
+Unobtainium
+
+The following games do not have cheats for various reasons. They are listed with the games. All games were attempted on multiple 3DS and 2DS consoles with generally the same effect using CTR Plugin Framework 0.7.4 by PabloMk7. Each console has firmware 11.17.0-50E or 11.17.0-50J.
+
+1001 Spikes (EUR)
+Title ID:  000400000013D300
+Game crashes 3DS with translation error.
+Works correctly with CTRPF disabled.
+
+2 Fast 4 Gnomz (EUR)
+Title ID: 00040000000BCE00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+35 Junior Games (EUR)
+Title ID: 00040000000C3200
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+3D Super Hang-On (EUR)
+Title ID: 00040000000C0A00
+Time counter moves memory location.
+Would require ability to scan pointers.
+
+3D Streets of Rage II (EUR)
+Title ID: 000400000015B800
+Typical items (health, time, etc) move memory locations.
+Would require ability to scan pointers.
+
+3D Sonic the Hedgehog II (EUR)
+Title ID: 000400000015BA00
+Typical items (health, time, etc) move memory locations.
+Would require ability to scan pointers.
+
+3D Shinobi III (EUR)
+Title ID: 00040000000DE200
+Typical items (health, time, etc) move memory locations.
+Would require ability to scan pointers.
+
+3D Gunstar Heroes (EUR)
+Title ID: 000400000015B900
+Typical items (health, time, etc) move memory locations.
+Would require ability to scan pointers.
+
+3D Game Collection (EUR)
+Title ID: 000400000000D5C00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+
