@@ -1,0 +1,10 @@
+[Infinite Ultimate Ball]
+D3000000 00000000
+00268C9C 3F800000
+D2000000 00000000
+
+[Fast Bowl]
+D3000000 00000000
+00268C90 42B40000
+D2000000 00000000
+{Is not always 100% successful. Rapidly pressing A gets better results.}
