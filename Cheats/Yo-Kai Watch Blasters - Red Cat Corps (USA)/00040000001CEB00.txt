@@ -1,0 +1,32 @@
+[999,999 Oni Orbs Base (L+R)]
+DD000000 00000300
+D3000000 0B000000
+00D876B4 000F432F
+D2000000 00000000
+{Do not activate on the character upgrade screen.}
+
+[99 All Battle Items]
+C0000000 00000011
+0BD89F88 00000063
+DC000000 00000010
+D1000000 00000000
+{Only given to items you already own. Affects some equipment items too.}
+
+[99 All Material Items]
+C0000000 00000020
+0BD87FB8 00000063
+DC000000 00000010
+D1000000 00000000
+{Only given to items you already own. Affects some coin items too.}
+
+[Infinite Crank-a-kai Turns]
+D3000000 0B000000
+20D8C4A2 00000006
+D2000000 00000000
+
+[Max Soul Gem Level]
+C0000000 0000000B
+2BD8BBE6 00000063
+DC000000 00000010
+D1000000 00000000
+{Not fully tested.}
