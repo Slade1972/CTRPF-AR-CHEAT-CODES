@@ -1,0 +1,11 @@
+[Infinite Health]
+D3000000 14000000
+00D309F0 469C4000
+D2000000 00000000
+
+[L+R Almost Instant Upgrade]
+DD000000 00000300
+D3000000 00000000
+10601DE4 00000096
+D2000000 00000000
+{Sets upgrade bar to 1 below required for upgrade.}

@@ -1,0 +1,10 @@
+# Copied from USA version.
+# Does not work correctly, disables access to vents / grappling hook.
+
+[Infinite Health]
+D3000000 10000000
+663580BC 00000000
+B63580BC 00000000
+00000056 0000FFFF
+D2000000 00000000
+
