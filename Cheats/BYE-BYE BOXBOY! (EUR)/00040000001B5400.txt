@@ -1,0 +1,6 @@
+[Infinite Medals]
+D3000000 31000000
+106D3750 000003E8
+D2000000 00000000
+{Only enable in shop}
+
