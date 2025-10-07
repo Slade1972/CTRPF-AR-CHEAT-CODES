@@ -1,0 +1,6 @@
+[Max Level]
+D3000000 08000000
+00015D00 00000014
+D2000000 00000000
+{Updates at the beginning of each level or after picking up a scroll.}
+

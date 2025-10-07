@@ -6,3 +6,6 @@
 
 [Unlimited Health]
 18183F24 000003E8
+
+[NOTE]
+{The game may still experience crashes with the cheats on via Rosalina menu.}

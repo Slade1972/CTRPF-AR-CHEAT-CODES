@@ -1,0 +1,269 @@
+[All codes are for V5 of the Plaza]
+[++Plaza++]
+
+[Always 300 Play Coins]
+D3000000 31000000
+10412C74 0000012C
+D2000000 00000000
+{Enable at main Plaza screen. Will reset to old value if disable. Use Play Coin Setter for best results.}
+
+[255 Plaza Tickets]
+D3000000 35000000
+20BCADD6 000000FF
+D2000000 00000000
+{This location moves as you finish plaza games.}
+
+[--]
+
+[++Quest I/II++]
+
+[--]
+
+[++Squad++]
+
+[Level Points 999,999]
+D3000000 31000000
+00432884 000F423F
+D2000000 00000000
+
+[--]
+
+[++Trader++]
+
+[L+R Gives $4.29b]
+DD000000 00000300
+D3000000 31000000
+00421660 FFFFFFFF
+D2000000 00000000
+
+[Hobby Pharmaceuticals 100k Share Trade]
+D3000000 31000000
+00421870 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Leisura Aerospace 100k Share Trade]
+D3000000 31000000
+00421708 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Sparkleseed Landscaping 100k Share Trade]
+D3000000 31000000
+00421750 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Conquorer Construction 100k Share Trade]
+D3000000 31000000
+00421798 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Arzodius Labs 100k Share Trade]
+D3000000 31000000
+004217E0 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Posiedon Fisheries 100k Share Trade]
+D3000000 31000000
+00421828 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[Hobbiville Pharma 100k Share Trade]
+D3000000 31000000
+00421870 000186A0
+D2000000 00000000
+
+[Kingfinder Studios 100k Share Trade]
+D3000000 31000000
+004216C0 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[PbP Deliveries 100k Share Trade]
+D3000000 31000000
+00421678 000186A0
+D2000000 00000000
+{Sets the trade amount to 100k}
+
+[--]
+
+[++Ninja Warrior++]
+
+[Infinite Time]
+D3000000 31000000
+004D0920 42700000
+D2000000 00000000
+{Will crash if used in Rosalina menu}
+
+[Infinite Time Alt]
+D3000000 31000000
+004CC120 42700000
+D2000000 00000000
+{Try this if the 1st one doesn't work}
+
+[Infinite Time Alt 2]
+D3000000 31000000
+004BE928 42700000
+D2000000 00000000
+{Try this if the 2nd one doesn't work}
+
+[Inf Time (8 People)]
+D3000000 31000000
+004C7920 42700000
+D2000000 00000000
+
+[L+R Ninja Min Enemy Health]
+DD000000 00000300
+D3000000 31000000
+004D0818 00000001
+D2000000 00000000
+{The healing timer will continue. Screen may not update to show correct health.}
+
+[--]
+
+[++Garden++]
+
+[$999,999 Cash]
+D3000000 31000000
+00413874 000F423F
+D2000000 00000000
+
+[--]
+
+[++Battle++]
+
+[--]
+
+[++Fishing++]
+
+[Rank 99]
+D3000000 31000000
+00450A5C 00000063
+D2000000 00000000
+
+[$999,999 Cash]
+D3000000 31000000
+00450A54 000F423F
+D2000000 00000000
+
+[(L+R) 65,535 Points fishing]
+DD000000 00000300
+D3000000 31000000
+00450A58 0000FFFF
+D2000000 00000000
+{Best done prior to fishing}
+
+[--]
+
+[++Zombies++]
+
+[--]
+
+[++Slot Racer++]
+
+[65,535 Points]
+D3000000 31000000
+0041A568 0000FFFF
+D2000000 00000000
+{needs more testing}
+
+[--]
+
+[++Chef++]
+
+[--]
+
+[++Explorers++]
+
+[9 Tranquil Darts]
+D3000000 31000000
+004244E8 00000009
+D2000000 00000000
+
+[9 High Speed Cameras]
+D3000000 31000000
+004244EC 00000009
+D2000000 00000000
+
+[9 Ice Picks]
+D3000000 31000000
+004244F0 00000009
+D2000000 00000000
+
+[--]
+
+[++Mansion++]
+
+[99,999 Gems]
+D3000000 31000000
+0042C564 0001869F
+D2000000 00000000
+
+[Max / Infinite Health]
+D3000000 31000000
+00487C90 000000FF
+00487C94 000000FF
+D2000000 00000000
+
+[--]
+
+[++Old/Untested++]
+
+[65,535 Plaza Tickets]
+D3000000 10000000
+167FFE36 0000FFFF
+
+[Streetpass Mansion: Mii Color Mod (L+Left)(V 5)]
+DD000000 00000220
+D3000000 30000000
+0141399C 0000000F
+014139B4 0000000F
+014139CC 0000000F
+014139E4 0000000F
+014139FC 0000000F
+01413A14 0000000F
+01413A2C 0000000F
+01413A44 0000000F
+01413A5C 0000000F
+01413A74 0000000F
+D2000000 00000000
+
+[Warrior Way: Record x9999999]
+D3000000 10000000
+05411A58 0098967F
+
+[Streetpass Mansion:  Unlimited Battery]
+D3000000 10000000
+15459B5E 00004448
+
+[Streetpass Mansion:  Max Power]
+D3000000 10000000
+15459FCA 000042C8
+
+[Streetpass Mansion:  Inventory Slot 1 Modifier]
+D3000000 10000000
+25429B68 00000000
+25429B69 00000047
+25429B6C 00000008
+25429B6D 00000003
+25429B6E 0000001E
+25429B6F 0000001E
+
+[Mii Plaza Population - 65535]
+D3000000 08000000
+0055B0BC 0000FFFF
+D2000000 00000000
+
+[Streetpass Battle: Army Size Mod]
+D3000000 30000000
+01414830 0000000F
+01414A3C 0000000F
+01414624 0000000F
+D2000000 00000000
+
+[--]
+

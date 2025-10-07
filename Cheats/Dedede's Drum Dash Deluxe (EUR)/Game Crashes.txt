@@ -1,0 +1,1 @@
+The game crashes when attempting to load with the CTRPF plugin enabled.

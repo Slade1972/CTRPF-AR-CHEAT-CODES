@@ -2,6 +2,10 @@ Unobtainium
 
 The following games do not have cheats for various reasons. They are listed with the games. All games were attempted on multiple 3DS and 2DS consoles with generally the same effect using CTR Plugin Framework 0.7.4 by PabloMk7. Each console has firmware 11.17.0-50E or 11.17.0-50J.
 
+If a game is not listed here, and still doesn't have cheats, it's one of two things:
+1/ I couldn't find anything worth cheating, but the plugin works fine.
+2/ I haven't gotten around to it yet.
+
 1001 Spikes (EUR)
 Title ID:  000400000013D300
 Game crashes 3DS with translation error.
@@ -47,4 +51,73 @@ Title ID: 000400000000D5C00
 Game crashes 3DS.
 Works correctly with CTRPF disabled.
 
+Castle Defender Conqueror (EUR)
+Title ID: 00040000000A6D00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Cave Story (EUR)
+Title ID: 0004000000098900
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Dedede's Drum Machine (EUR)
+Title ID: 0004000000147B00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Chase: Cold Case Investigations - Distant Memories (EUR)
+Title ID: 000400000001A6F00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Christmas Night Archery (EUR)
+Title ID: 000400000F70F700
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Chevrolet Camaro: Wild Ride (EUR)
+Title ID: 000400000006A800
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Chat-A-Lot (EUR)
+Title ID: 000400000011C100
+Not a game.
+Servers have shut down.
+
+Chronus Arc (EUR)
+Title ID: 0004000000188600
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+CoCoRo (EUR)
+Title ID: 0004000000108E00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Conveni Dream (EUR)
+Title ID:  000400000192B00
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Crystareino (EUR)
+Title ID: 00040000001C6500
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Cube Creator 3D (EUR)
+Title ID: 0004000000175900
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Crazy Construction (EUR)
+Title ID: 0004000000147900
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
+
+Crazy Chicken Pirates 3D (EUR)
+Title ID: 00040000000A9900
+Game crashes 3DS.
+Works correctly with CTRPF disabled.
 
